@@ -11,7 +11,7 @@ ___
 Install the package as a dev dependency
 
 ```
-npm i @nateflynn/webpack-wordpress-plugin-version-sync --save-dev
+npm i @nateflynn/webpack-wordpress-theme-version-sync --save-dev
 ```
 
 *This package assumes that your code will run in an **ES2015+** environment.*
