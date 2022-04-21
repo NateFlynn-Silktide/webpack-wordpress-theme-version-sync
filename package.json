@@ -1,0 +1,44 @@
+{
+	"name": "@nateflynn/webpack-wordpress-theme-version-sync",
+	"version": "1.0.0",
+	"description": "Easily sync your WordPress theme version with your project's `package.json` file unsing Webpack",
+
+	"author": {
+		"name": "Nate Flynn",
+		"email": "nateflynn+npm@silktide.com",
+		"url": "https://github.com/nateflynn-silktide"
+	},
+
+	"homepage": "https://github.com/NateFlynn-Silktide/webpack-wordpress-theme-version-sync#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NateFlynn-Silktide/webpack-wordpress-theme-version-sync.git"
+	},
+	"bugs": {
+		"url": "https://github.com/NateFlynn-Silktide/webpack-wordpress-theme-version-sync/issues",
+		"email": "nateflynn+npm@silktide.com"
+	},
+
+	"keywords": [
+		"webpack",
+		"wordpress",
+		"webpack-plugin",
+		"npm"
+	],
+
+
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+
+	"license": "GPL-3.0-or-later",
+
+	"dependencies": {},
+
+	"devDependencies": {},
+
+	"peerDependencies": {
+		"webpack": "^5.0.0"
+	}
+}
